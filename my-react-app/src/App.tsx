@@ -3,7 +3,7 @@ import PokemonCard from './components/PokemonCard';
 
 function App() {
   return (
-    <PokemonCard></PokemonCard>
+    <PokemonCard/>
   );
 }
 
