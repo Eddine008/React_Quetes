@@ -20,4 +20,5 @@ function PokemonCard() {
             
     </figure> 
 }
-export default PokemonCard
+
+export default PokemonCard;
