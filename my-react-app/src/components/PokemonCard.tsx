@@ -11,7 +11,7 @@ const pokemonList = [
 
 interface Pokemon {
   name : string;
-  imgSrc : string;
+  imgSrc?: string;
 
 }
 
